@@ -1,0 +1,6 @@
+2021-06-19 20:16:11,424 [  37232]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 6938ms, details saved to /home/alexandrof/.cache/JetBrains/IdeaIC2021.1/log/threadDumps-freeze-20210619-201609-IC-211.6693.111-6sec 
+2021-06-19 20:16:18,123 [  43931]   WARN - ctionSystem.impl.ActionUpdater - 1412ms to expand group child com.intellij.space.actions.SpaceMainToolBarAction 
+2021-06-19 20:16:18,123 [  43931]   WARN - ctionSystem.impl.ActionUpdater - 1430ms to expand group child space.actions.MainToolbarActionGroup 
+2021-06-19 20:16:27,151 [  52959]   WARN - ctionSystem.impl.ActionUpdater - 1023ms to expand group child ToolbarRunGroup 
+2021-06-19 20:36:45,929 [1271737]   WARN - com.intellij.util.xmlb.Binding - no accessors for com.intellij.openapi.updateSettings.impl.pluginsAdvertisement.PluginAdvertiserExtensionsStateService$State 
+2021-06-19 20:37:56,610 [1342418]   WARN - s.ui.configuration.SdkDetector - No version is returned for detected SDK IDEA JDK at /home/alexandrof/Apps/idea-IC-211.6693.111 
